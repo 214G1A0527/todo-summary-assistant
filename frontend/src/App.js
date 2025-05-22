@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import './App.css';
 
-const backendURL = "https://todo-summary-assistant-backend.onrender.com";
+const backendURL = "https://todo-summary-assistant-fumj.onrender.com/todos";
 
 function App() {
   const [todos, setTodos] = useState([]);
