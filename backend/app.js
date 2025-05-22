@@ -10,7 +10,11 @@ const supabase = createClient(
 );
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: 'https://coruscating-froyo-ad9e8b.netlify.app', // your frontend URL
+  methods: ['GET', 'POST', 'PATCH', 'DELETE'],
+  credentials: true
+}));
 app.use(express.json());
 
 // GET /todos - Fetch all todos
