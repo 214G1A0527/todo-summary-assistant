@@ -9,7 +9,7 @@ This project is a full-stack web application developed as an internship assignme
 You can explore the live versions of both the frontend and backend applications:
 
 * **Frontend (React):** [https://coruscating-froyo-ad9e8b.netlify.app](https://coruscating-froyo-ad9e8b.netlify.app)
-* **Backend API Base URL (Node.js/Express):** [https://todo-summary-assistant-backend.onrender.com](https://todo-summary-assistant-backend.onrender.com)
+* **Backend API Base URL (Node.js/Express):** [https://todo-summary-assistant-fumj.onrender.com](https://todo-summary-assistant-fumj.onrender.com)
 
 ---
 
